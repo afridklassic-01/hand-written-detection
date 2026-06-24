@@ -1,0 +1,9 @@
+@(*.h5
+__pycache__/)
+@(*.csv
+*.h5
+__pycache__/)
+
+*.csv
+*.h5
+__pycache__/
