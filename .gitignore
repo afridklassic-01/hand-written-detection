@@ -1,9 +1,6 @@
-@(*.h5
-__pycache__/)
-@(*.csv
-*.h5
-__pycache__/)
-
+venv/
 *.csv
+*.xlsx
+A_Z Handwritten Data*
 *.h5
 __pycache__/
